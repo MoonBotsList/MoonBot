@@ -1,6 +1,6 @@
-# ZuraaaBot
+# MoonBot
 
-Bot responsável por organizar e auxiliar na botlist [Zuraaa](https://github.com/zuraaa-projects/Zuraaa.com)
+Bot responsável por organizar e auxiliar na botlist [Moonbots](https://github.com/MoonBotsList/MoonSite)
 
 ## Estilo de código
 
@@ -13,11 +13,11 @@ Bot responsável por organizar e auxiliar na botlist [Zuraaa](https://github.com
 
 ## Como usar
 
-**⚠ Esse projeto depende de uma instância do [ZuraaaCore](https://github.com/zuraaa-projects/ZuraaaCore) para funcionar corretamente. ⚠** 
+**⚠ Esse projeto depende de uma instância do [MoonCore](https://github.com/MoonBotsList/MoonCore) para funcionar corretamente. ⚠** 
 
 - Primeiro clone o repositório:
 ```sh
-$ git clone https://github.com/zuraaa-projects/ZuraaaBot.git
+$ git clone https://github.com/MoonBotsList/MoonBot
 ```
 
 - Inicialize as dependências:
@@ -34,7 +34,7 @@ $ npm start
 
 ### Suporte
 
-- Suporte feito através do nosso [Discord](https://www.zuraaa.com/discord)
+- Suporte feito através do nosso [Discord](https://moonbotslist.xyz/discord)
 
 ### Fair Use
 
