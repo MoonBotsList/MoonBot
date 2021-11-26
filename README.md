@@ -17,7 +17,7 @@ Bot responsável por organizar e auxiliar na botlist [Moonbots](https://github.c
 
 - Primeiro clone o repositório:
 ```sh
-$ git clone https://github.com/MoonBotsList/MoonBot
+$ git clone https://github.com/MoonBotsList/MoonBot.git
 ```
 
 - Inicialize as dependências:
