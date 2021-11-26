@@ -1,0 +1,57 @@
+﻿{
+    "api": {
+        "zuraaa": {
+            "url": "http://localhost:3000/",
+            "secret": "1xUq3yOJTfiCs2aNodYUjxmksQ9XwpYshwgbj3UNx8AooSbkffnCGIXbc1mFLaXmPgbhc8HhMhDDtItu34RD2Qzryb1tEgvaVik8jNTY5TZHiY1dt85IISBGVr4zlT"
+        }
+    },
+    "bot": {
+        "token": "",
+        "prefix": "m.",
+        "owner": [
+            ""
+        ],
+        "primaryColor": "cor para as embeds",
+        "guilds": {
+            "main": {
+                "id": "793570576173105193",
+                "autorole": {
+                    "botrole": "794295153694474240",
+                    "member": "794295152399089704",
+                    "dev": "794295151588802610"
+                },
+                "channels": {
+                    "welcome": "906056061058953257",
+                    "modlog": "906056143623831553",
+                    "sitelog": "905154793868230696",
+                    "upDownChannels": [
+                        "794295184963010590",
+                        "outros canais com essa feature"
+                    ],
+                    "starboard": "906056604439412767",
+                    "formlog": "906056497388195850",
+                    "forms": "906056497388195850"
+                },
+                "staffroleid": {
+                    "mod": "794295145540485160",
+                    "adm": "794295143405715506",
+                    "checker": "794295146224549918"
+                },
+                "otherroles": {
+                    "mute": "798721269540847616",
+                    "topbots": "794295150091305050",
+                    "topbotdevs": "794295150800928788"
+                }
+            },
+            "bottest": {
+                "id": "794559734216523776",
+                "autorole": {
+                    "botrole": "794670228402602005"
+                }
+            }
+        }
+    },
+    "rabbit": {
+      "url": "amqp://localhost"
+    }
+}
